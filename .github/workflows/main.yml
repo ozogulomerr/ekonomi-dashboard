@@ -1,0 +1,39 @@
+name: Gunluk Veri Guncelleme
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Her sabah TR saati ile 09:00
+  push:
+    paths:
+      - '*.xlsx' # Excel dosyası güncellendiğinde çalış
+  workflow_dispatch: # Manuel buton
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Depoyu Çek
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: pip install -r requirements.txt
+
+      - name: Scripti Çalıştır
+        env:
+          EVDS_API_KEY: ${{ secrets.EVDS_API_KEY }}
+        run: python main.py
+
+      - name: Kaydet ve Gönder
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add veri.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Veri guncellendi" && git push)
