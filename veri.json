@@ -5713,6 +5713,12 @@
             "aofm": 38.0,
             "tlref": 37.6272,
             "net_fonlama": -1418362
+        },
+        {
+            "tarih": "19-01-2026",
+            "aofm": 38.0,
+            "tlref": 0.0,
+            "net_fonlama": -1607539
         }
     ],
     "imalat": [
@@ -17699,6 +17705,24 @@
             "mevduat": 2.0,
             "refinans": 2.15,
             "marjinal": 2.4
+        },
+        {
+            "tarih": "17-01-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
+        },
+        {
+            "tarih": "18-01-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
+        },
+        {
+            "tarih": "19-01-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
         }
     ],
     "eurocpi": [
@@ -17876,6 +17900,11 @@
             "tarih": "01-11-2025",
             "aylik": -0.3,
             "yillik": 2.1
+        },
+        {
+            "tarih": "01-12-2025",
+            "aylik": 0.2,
+            "yillik": 1.9
         }
     ],
     "gsyh_oncu": [
