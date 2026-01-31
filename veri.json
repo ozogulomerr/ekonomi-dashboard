@@ -914,26 +914,26 @@
     "isgucu": [
         {
             "tarih": "2023-1",
-            "issizlik": 9.7,
-            "katilim": 53.8,
+            "issizlik": 9.8,
+            "katilim": 53.9,
             "atil": 22.6
         },
         {
             "tarih": "2023-2",
-            "issizlik": 9.9,
-            "katilim": 53.1,
+            "issizlik": 10.0,
+            "katilim": 53.2,
             "atil": 24.0
         },
         {
             "tarih": "2023-3",
-            "issizlik": 10.1,
+            "issizlik": 10.2,
             "katilim": 53.3,
             "atil": 22.4
         },
         {
             "tarih": "2023-4",
             "issizlik": 10.1,
-            "katilim": 53.6,
+            "katilim": 53.7,
             "atil": 23.9
         },
         {
@@ -963,13 +963,13 @@
         {
             "tarih": "2023-9",
             "issizlik": 9.0,
-            "katilim": 53.2,
+            "katilim": 53.1,
             "atil": 21.5
         },
         {
             "tarih": "2023-10",
             "issizlik": 8.5,
-            "katilim": 53.0,
+            "katilim": 52.9,
             "atil": 21.0
         },
         {
@@ -980,19 +980,19 @@
         },
         {
             "tarih": "2023-12",
-            "issizlik": 8.8,
-            "katilim": 53.9,
+            "issizlik": 8.9,
+            "katilim": 54.0,
             "atil": 24.8
         },
         {
             "tarih": "2024-1",
-            "issizlik": 9.1,
-            "katilim": 53.6,
+            "issizlik": 9.2,
+            "katilim": 53.7,
             "atil": 27.3
         },
         {
             "tarih": "2024-2",
-            "issizlik": 8.6,
+            "issizlik": 8.7,
             "katilim": 54.5,
             "atil": 24.9
         },
@@ -1010,7 +1010,7 @@
         },
         {
             "tarih": "2024-5",
-            "issizlik": 8.4,
+            "issizlik": 8.5,
             "katilim": 54.7,
             "atil": 24.6
         },
@@ -1029,54 +1029,54 @@
         {
             "tarih": "2024-8",
             "issizlik": 8.5,
-            "katilim": 54.1,
+            "katilim": 54.0,
             "atil": 27.0
         },
         {
             "tarih": "2024-9",
-            "issizlik": 8.6,
+            "issizlik": 8.5,
             "katilim": 54.2,
             "atil": 25.5
         },
         {
             "tarih": "2024-10",
-            "issizlik": 8.8,
-            "katilim": 54.2,
+            "issizlik": 8.7,
+            "katilim": 54.1,
             "atil": 27.399999999999995
         },
         {
             "tarih": "2024-11",
-            "issizlik": 8.5,
-            "katilim": 54.2,
+            "issizlik": 8.4,
+            "katilim": 54.1,
             "atil": 28.000000000000004
         },
         {
             "tarih": "2024-12",
-            "issizlik": 8.4,
-            "katilim": 54.0,
+            "issizlik": 8.6,
+            "katilim": 54.2,
             "atil": 28.6
         },
         {
             "tarih": "2025-1",
-            "issizlik": 8.5,
-            "katilim": 53.6,
+            "issizlik": 8.6,
+            "katilim": 53.7,
             "atil": 29.4
         },
         {
             "tarih": "2025-2",
-            "issizlik": 8.2,
-            "katilim": 53.2,
+            "issizlik": 8.3,
+            "katilim": 53.3,
             "atil": 29.5
         },
         {
             "tarih": "2025-3",
-            "issizlik": 8.0,
-            "katilim": 53.8,
+            "issizlik": 8.1,
+            "katilim": 53.9,
             "atil": 29.299999999999997
         },
         {
             "tarih": "2025-4",
-            "issizlik": 8.6,
+            "issizlik": 8.7,
             "katilim": 53.5,
             "atil": 32.1
         },
@@ -1088,39 +1088,45 @@
         },
         {
             "tarih": "2025-6",
-            "issizlik": 8.6,
+            "issizlik": 8.5,
             "katilim": 53.6,
             "atil": 32.6
         },
         {
             "tarih": "2025-7",
-            "issizlik": 8.2,
-            "katilim": 53.3,
+            "issizlik": 8.1,
+            "katilim": 53.2,
             "atil": 29.4
         },
         {
             "tarih": "2025-8",
-            "issizlik": 8.6,
+            "issizlik": 8.5,
             "katilim": 53.8,
             "atil": 29.100000000000005
         },
         {
             "tarih": "2025-9",
-            "issizlik": 8.6,
-            "katilim": 53.5,
+            "issizlik": 8.5,
+            "katilim": 53.4,
             "atil": 28.000000000000004
         },
         {
             "tarih": "2025-10",
-            "issizlik": 8.5,
-            "katilim": 53.7,
+            "issizlik": 8.4,
+            "katilim": 53.5,
             "atil": 28.999999999999996
         },
         {
             "tarih": "2025-11",
-            "issizlik": 8.6,
-            "katilim": 53.8,
+            "issizlik": 8.5,
+            "katilim": 53.7,
             "atil": 28.9
+        },
+        {
+            "tarih": "2025-12",
+            "issizlik": 7.7,
+            "katilim": 53.2,
+            "atil": null
         }
     ],
     "fonlama": [
@@ -5767,6 +5773,12 @@
             "aofm": 37.0,
             "tlref": 36.803,
             "net_fonlama": -1156386
+        },
+        {
+            "tarih": "30-01-2026",
+            "aofm": 37.0,
+            "tlref": 0.0,
+            "net_fonlama": -840354
         }
     ],
     "imalat": [
@@ -10953,6 +10965,12 @@
         },
         {
             "tarih": "28-01-2026",
+            "ust": 3.75,
+            "efektif": 3.64,
+            "alt": 3.5
+        },
+        {
+            "tarih": "29-01-2026",
             "ust": 3.75,
             "efektif": 3.64,
             "alt": 3.5
@@ -17887,6 +17905,12 @@
         },
         {
             "tarih": "29-01-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
+        },
+        {
+            "tarih": "30-01-2026",
             "mevduat": 2.0,
             "refinans": 2.15,
             "marjinal": 2.4
