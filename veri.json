@@ -5868,6 +5868,12 @@
             "aofm": 37.0,
             "tlref": 36.7038,
             "net_fonlama": -1138102
+        },
+        {
+            "tarih": "18-02-2026",
+            "aofm": 37.0,
+            "tlref": 36.7198,
+            "net_fonlama": -1204820
         }
     ],
     "imalat": [
@@ -11126,6 +11132,18 @@
         },
         {
             "tarih": "13-02-2026",
+            "ust": 3.75,
+            "efektif": 3.64,
+            "alt": 3.5
+        },
+        {
+            "tarih": "16-02-2026",
+            "ust": 3.75,
+            "efektif": null,
+            "alt": 3.5
+        },
+        {
+            "tarih": "17-02-2026",
             "ust": 3.75,
             "efektif": 3.64,
             "alt": 3.5
@@ -18179,6 +18197,12 @@
         },
         {
             "tarih": "17-02-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
+        },
+        {
+            "tarih": "18-02-2026",
             "mevduat": 2.0,
             "refinans": 2.15,
             "marjinal": 2.4
