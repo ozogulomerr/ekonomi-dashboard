@@ -5188,6 +5188,12 @@
             "ust": 3.75,
             "efektif": 3.64,
             "alt": 3.5
+        },
+        {
+            "tarih": "24-02-2026",
+            "ust": 3.75,
+            "efektif": 3.64,
+            "alt": 3.5
         }
     ],
     "uscpi": [
@@ -12283,6 +12289,12 @@
             "mevduat": 2.0,
             "refinans": 2.15,
             "marjinal": 2.4
+        },
+        {
+            "tarih": "25-02-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
         }
     ],
     "eurocpi": [
@@ -12443,7 +12455,7 @@
         },
         {
             "tarih": "01-08-2025",
-            "aylik": 0.2,
+            "aylik": 0.1,
             "yillik": 2.0
         },
         {
