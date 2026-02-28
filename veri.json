@@ -5200,6 +5200,12 @@
             "ust": 3.75,
             "efektif": 3.64,
             "alt": 3.5
+        },
+        {
+            "tarih": "26-02-2026",
+            "ust": 3.75,
+            "efektif": 3.64,
+            "alt": 3.5
         }
     ],
     "uscpi": [
@@ -12304,6 +12310,12 @@
         },
         {
             "tarih": "26-02-2026",
+            "mevduat": 2.0,
+            "refinans": 2.15,
+            "marjinal": 2.4
+        },
+        {
+            "tarih": "27-02-2026",
             "mevduat": 2.0,
             "refinans": 2.15,
             "marjinal": 2.4
